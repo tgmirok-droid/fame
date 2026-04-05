@@ -281,34 +281,5 @@
     </div>
 
     <script src="script.js"></script>
-</body>
-</html>
-
-<div class="tab-content" id="background-tab">
-    <h3>Фон и галерея</h3>
-    
-
-    <div class="phone-upload-section">
-        <h4><i class="fas fa-mobile-alt"></i> С телефона</h4>
-        <input type="file" id="phone-upload" accept="image/*" capture="environment" multiple style="display: none;">
-        <label for="phone-upload" class="upload-btn neon-flow">
-            <i class="fas fa-camera"></i> Сделать фото или выбрать из галереи
-        </label>
-        
-
-        <div id="phone-gallery" class="phone-gallery">
-            <div class="gallery-item" onclick="setAsBackground(this)">
-                <img src="img/default-bg1.jpg" alt="Фон 1">
-                <button class="delete-photo" onclick="deletePhoto(this)">×</button>
-            </div>
-            <div class="gallery-item" onclick="setAsBackground(this)">
-                <img src="img/default-bg2.jpg" alt="Фон 2">
-                <button class="delete-photo" onclick="deletePhoto(this)">×</button>
-            </div>
-        </div>
-    </div>
-    
-
-    <div id="bg-preview" class="bg-preview"></div>
 </div>
 </html>
