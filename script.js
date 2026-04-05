@@ -243,9 +243,11 @@ function initNavigation() {
     const animatedBgBtn = document.getElementById('animated-bg-btn');
     const menuAnimatedBg = document.getElementById('menu-animated-bg');
     
-    if (faqBtn) {
-        faqBtn.addEventListener('click', () => {
-            switchSection('faq-section');
+const menuFaq = document.querySelector('.menu-item[data-section="faq"]');
+if (menuFaq) {
+    menuFaq.addEventListener('click', () => {
+        switchSection('faq-section');
+        if (sideMenu) sideMenu.classList.remove('active');
         });
     }
     
