@@ -381,7 +381,7 @@ card.innerHTML = `
     setTimeout(() => {
         const img = card.querySelector(`#${avatarId}`);
         if (img) {
-            loadAvatarWithFallback(img, `img/avatar${member.id}.png`, member.nickname);
+            loadAvatarWithFallback(img, `img/avatar${member.id}.jpg`, member.nickname);
         }
     }, 10);
     
@@ -599,7 +599,7 @@ badgesHtml += `<span class="badge category">${member.category}</span>`;
     setTimeout(() => {
         const img = document.getElementById(profileAvatarId);
         if (img) {
-            loadAvatarWithFallback(img, `img/avatar${member.id}.png`, member.nickname);
+            loadAvatarWithFallback(img, `img/avatar${member.id}.jpg`, member.nickname);
         }
     }, 10);
     
