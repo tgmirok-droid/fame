@@ -379,6 +379,28 @@ const members = [
 
         }
     },
+                        {
+        id: 20,
+        nickname: "Юморов",
+        username: "@dqfos",
+        category: "Малый фейм",
+        role: "Малый фейм",
+        description: "Fi la лист- @list_fila",
+        avatar: "img/avatar20.jpg",
+        verified: false,
+        pinned: false,
+        project: "https://t.me/+7_HILyTJwhQ2YjJi",
+        telegram: "dqfos",
+        joinDate: "2026-05-05",
+        activity: "Постоянная",
+        details: "малый фейм",
+        skills: ["малая узноваемость"],
+        socials: {
+            telegram: "@dqfos",
+            project: "https://t.me/+7_HILyTJwhQ2YjJi",
+
+        }
+    },
 ];
 
 let currentTheme = 'black';
