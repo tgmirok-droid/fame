@@ -21,27 +21,7 @@ const members = [
             project: "https://t.me/+hgYBTlhzZOZmNDY0",
         }
     },    
-    {
-        id: 2,
-        nickname: "Второе Дыхание",
-        username: "@xyemode",
-        category: "Медийки",
-        role: "Co-owner",
-        description: "со-Владелец листа.",
-        avatar: "img/avatar2.jpg",
-        verified: true,
-        pinned: true,
-        project: "https://t.me/+2lzPHPyb9XoyZDIy",
-        telegram: "xyemode",
-        joinDate: "2026-05-05",
-        activity: "Постоянная",
-        details: "Модератор",
-        skills: ["Администрирование", "Модерация", "Развитие сообщества"],
-        socials: {
-            telegram: "@xyemode",
-            project: "https://t.me/+2lzPHPyb9XoyZDIy",
-        }
-    },
+
     {
         id: 3,
         nickname: "карма",
