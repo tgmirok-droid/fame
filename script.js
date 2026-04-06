@@ -475,7 +475,7 @@ const members = [
         role: "Средний фейм",
         description: "Отзывы @avstron_repaㅤ Канал @avstronlife ㅤ-Гарант - до 1000₽ 0%/от 1000₽ 2%",
         avatar: "img/avatar24.jpg",
-        verified: false,
+        verified: true,
         pinned: false,
         project: "https://t.me/avstronlife2",
         telegram: "acenod",
