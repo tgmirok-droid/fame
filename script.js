@@ -357,6 +357,28 @@ const members = [
 
         }
     },
+                            {
+        id: 19,
+        nickname: "x3m",
+        username: "@vklose",
+        category: "Малый фейм",
+        role: "Малый фейм",
+        description: "[💆🏻‍♂️] Умру молодым. Forum from the “Белый суд” project- https://t.me/+KVMtAVNzXns1MTI1",
+        avatar: "img/avatar19.jpg",
+        verified: false,
+        pinned: false,
+        project: "https://t.me/+f0HEYtFJXWE2MWQ1",
+        telegram: "vklose",
+        joinDate: "2026-05-05",
+        activity: "Постоянная",
+        details: "малый фейм",
+        skills: ["малая узноваемость"],
+        socials: {
+            telegram: "@vklose",
+            project: "https://t.me/+f0HEYtFJXWE2MWQ1",
+
+        }
+    },
 ];
 
 let currentTheme = 'black';
