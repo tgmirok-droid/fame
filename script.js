@@ -951,22 +951,22 @@ const members = [
                                                                             {
         id: 47,
         nickname: "Илья химик",
-        username: "@fepai",
+        username: "@AttakaDurov",
         category: "Средний фейм",
         role: "Средний фейм",
-        description: "ADP -  @runeekm  .com -  @tochkaa_com ",
+        description: "EO - @BleckPortall | лики - @likuday | фейм лист - @ffamelistik | Channel - @anonkiill | TikTok - @BleckPortall | прайс - @pricesix",
         avatar: "img/avatar47.jpg",
         verified: false,
         pinned: false,
-        project: "https://t.me/+Eo7HDcsvZphiZTU1",
-        telegram: "fepai",
+        project: "https://t.me/+_0dRVUG2B8w0Zjdi",
+        telegram: "AttakaDurov",
         joinDate: "2026-05-05",
         activity: "Постоянная",
         details: "средний фейм",
         skills: ["средняя узноваемость"],
         socials: {
-            telegram: "@fepai",
-             project: "https://t.me/+Eo7HDcsvZphiZTU1",     
+            telegram: "@AttakaDurov",
+             project: "https://t.me/+_0dRVUG2B8w0Zjdi",     
         }
     },
 ];
