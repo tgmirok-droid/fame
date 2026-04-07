@@ -958,6 +958,7 @@ const members = [
         avatar: "img/avatar47.jpg",
         verified: false,
         pinned: false,
+        scam: true,
         project: "https://t.me/+_0dRVUG2B8w0Zjdi",
         telegram: "AttakaDurov",
         joinDate: "2026-05-05",
@@ -967,6 +968,65 @@ const members = [
         socials: {
             telegram: "@AttakaDurov",
              project: "https://t.me/+_0dRVUG2B8w0Zjdi",     
+        }
+    },
+                                                                {
+        id: 48,
+        nickname: "холлус",
+        username: "@qexiew",
+        category: "Средний фейм",
+        role: "Средний фейм",
+        description: "https://t.me/+WIbhNrDY_-w1YWZk",
+        avatar: "img/avatar48.jpg",
+        verified: false,
+        pinned: false,
+        project: "https://t.me/+WIbhNrDY_-w1YWZk",
+        telegram: "qexiew",
+        joinDate: "2026-05-05",
+        activity: "Постоянная",
+        details: "средний фейм",
+        skills: ["средняя узноваемость"],
+        socials: {
+            telegram: "@qexiew",
+             project: "https://t.me/+WIbhNrDY_-w1YWZk",     
+        }
+    },
+                                                                    {
+        id: 49,
+        nickname: "Milor",
+        username: "@vkanonik",
+        category: "Средний фейм",
+        role: "Средний фейм",
+        description: " @nepicat ",
+        avatar: "img/avatar49.jpg",
+        verified: false,
+        pinned: false,
+        telegram: "vkanonik",
+        joinDate: "2026-05-05",
+        activity: "Постоянная",
+        details: "средний фейм",
+        skills: ["средняя узноваемость"],
+        socials: {
+            telegram: "@vkanonik",    
+        }
+    },
+                                                                        {
+        id: 50,
+        nickname: "Melodic",
+        username: "@gmailbeslan",
+        category: "Средний фейм",
+        role: "Средний фейм",
+        description: "фейм @famelist16 | ваши ебари @gmailbeslan @cryptopdrs | I GOD💆🔥 | ✓ @d3la_list",
+        avatar: "img/avatar50.jpg",
+        verified: false,
+        pinned: false,
+        telegram: "gmailbeslan",
+        joinDate: "2026-05-05",
+        activity: "Постоянная",
+        details: "средний фейм",
+        skills: ["средняя узноваемость"],
+        socials: {
+            telegram: "@gmailbeslan",    
         }
     },
 ];
