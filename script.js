@@ -1228,7 +1228,7 @@ const members = [
         username: "@mvdshoting",
         category: "Средний фейм",
         role: "Средний фейм",
-        description: "@agrorenata - 👩🏼‍❤️‍👨🏻 / @htshub",
+        description: "Пришел чисто ради бабок и некого фейма начинал путь в 2022 году будучи мирным пиздюком позже начинал познавать доксинг и в 24 узнал о осинте",
         avatar: "img/avatar60.jpg",
         verified: false,
         pinned: false,
