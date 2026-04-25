@@ -1353,7 +1353,7 @@ const members = [
         username: "@chapiroIov",
         category: "Средний фейм",
         role: "Средний фейм",
-        description: "Акробат, Автор, мозарт",
+        description: "А💆‍♂️ Owner - .Эпоха Правды https://t.me/+qEm0H9O6H_ViMTg6 🪖 bf @imgiyy @vknevidimov @zunosint / миру мир @pacckaz_ot_chapiroIov🍩",
         avatar: "img/avatar66.jpg",
         verified: true,
         pinned: true,
