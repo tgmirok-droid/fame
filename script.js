@@ -1332,7 +1332,7 @@ const members = [
         id: 65,
         nickname: "коллекционер",
         username: "@doxcem",
-        category: "Средний фейм",
+       category: "Средний фейм",
         role: "Средний фейм",
         description: "Акробат, Автор, мозарт",
         avatar: "img/avatar65.jpg",
@@ -1345,6 +1345,27 @@ const members = [
         skills: ["средняя узноваемость"],
         socials: {
             telegram: "@doxcem",    
+        }
+    },
+        {
+        id: 66,
+        nickname: "chapiroIov",
+        username: "@chapiroIov",
+        category: "Средний фейм",
+        role: "Средний фейм",
+        description: "Акробат, Автор, мозарт",
+        avatar: "img/avatar66.jpg",
+        verified: true,
+        pinned: true,
+                 project: "https://t.me/+VrrAOuhAWEg2ZTQy",
+        telegram: "chapiroIov",
+              chat: "https://t.me/+P2QyDUQBZ8o1MDBi",
+        joinDate: "2026-05-05",
+        activity: "Постоянная",
+        details: "средний фейм",
+        skills: ["средняя узноваемость"],
+        socials: {
+            telegram: "@chapiroIov",    
         }
     }
 ];
